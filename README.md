@@ -1,4 +1,4 @@
-# Embedded Intelligent Microscopy System for Identification and Counting of Microscopic Marine Organisms
+# Embedded Intelligent Microscopy System for Identification and Counting of Marine Organisms
 
 ## 📌 Project Overview
 
